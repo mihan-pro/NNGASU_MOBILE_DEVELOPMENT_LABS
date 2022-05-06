@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Proshin934_1</string>
+    <string name="app_name">Tabs andswipe</string>
+    <string name="tab_text_1">Лента</string>
+    <string name="tab_text_2">Карта</string>
+    <string name="tab_text_3">Фото</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
