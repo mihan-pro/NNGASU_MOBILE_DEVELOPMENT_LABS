@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Proshin934_1</string>
+    <string name="input">Ввод</string>
+    <string name="output">Вывод</string>
+    <string name="delete">Удалить</string>
+    <string name="key">Ключ</string>
+    <string name="value">Значение</string>
 </resources>
